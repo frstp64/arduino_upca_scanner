@@ -1,0 +1,1 @@
+M = csvread('codebarre.CSV');
